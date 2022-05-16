@@ -1484,7 +1484,7 @@ importers:
       redux: ^4.2.0
       redux-devtools-themes: ^1.0.0
       rimraf: ^3.0.2
-      source-map: ^0.5.7
+      source-map: ^0.7.3
       ts-jest: ^27.1.4
       typescript: ~4.6.4
     dependencies:
@@ -1495,7 +1495,7 @@ importers:
       html-entities: 2.3.3
       path-browserify: 1.0.1
       redux-devtools-themes: 1.0.0
-      source-map: 0.5.7
+      source-map: 0.7.3
     devDependencies:
       '@babel/cli': 7.17.10_@babel+core@7.17.10
       '@babel/core': 7.17.10
@@ -19854,7 +19854,6 @@ packages:
   /source-map/0.7.3:
     resolution: {integrity: sha512-CkCj6giN3S+n9qrYiBTX5gystlENnRW5jZeNLHpe6aue+SrHcG5VYwujhW9s4dY31mEGsxBDrHR6oI69fTXsaQ==}
     engines: {node: '>= 8'}
-    dev: true
 
   /source-map/0.8.0-beta.0:
     resolution: {integrity: sha512-2ymg6oRBpebeZi9UUNsgQ89bhx01TcTkmNTGnNO88imTmbSgy4nfujrgVEFKWpMTEGA11EDkTt7mqObTPdigIA==}
