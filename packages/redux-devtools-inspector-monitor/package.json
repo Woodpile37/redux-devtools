@@ -66,7 +66,7 @@
     "@types/hex-rgba": "^1.0.1",
     "@types/history": "^4.7.11",
     "@types/lodash.debounce": "^4.0.7",
-    "@types/react": "^17.0.45",
+    "@types/react": "^18.0.9",
     "@types/react-dragula": "^1.1.0",
     "@types/redux-devtools-themes": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^5.25.0",
@@ -75,15 +75,15 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.5.0",
-    "react": "^17.0.2",
+    "react": "^18.1.0",
     "redux": "^4.2.0",
     "rimraf": "^3.0.2",
     "typescript": "~4.6.4"
   },
   "peerDependencies": {
     "@redux-devtools/core": "^3.7.0",
-    "@types/react": "^16.3.0 || ^17.0.0",
-    "react": "^16.3.0 || ^17.0.0",
+    "@types/react": "^16.3.0 || ^17.0.0 || ^18.0.0",
+    "react": "^16.3.0 || ^17.0.0 || ^18.0.0",
     "redux": "^3.4.0 || ^4.0.0"
   }
 }
